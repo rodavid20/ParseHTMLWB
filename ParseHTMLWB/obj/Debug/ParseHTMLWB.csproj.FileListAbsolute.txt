@@ -13,3 +13,12 @@ C:\Users\faculty\Desktop\ParseHTMLWB\ParseHTMLWB\obj\Debug\ParseHTMLWB.csprojRes
 E:\projects\ParseHTMLWB\ParseHTMLWB\bin\Debug\ParseHTMLWB.exe.config
 E:\projects\ParseHTMLWB\ParseHTMLWB\obj\Debug\ParseHTMLWB.exe
 E:\projects\ParseHTMLWB\ParseHTMLWB\obj\Debug\ParseHTMLWB.pdb
+E:\projects\ParseHTMLWB\ParseHTMLWB\bin\Debug\ParseHTMLWB.exe
+E:\projects\ParseHTMLWB\ParseHTMLWB\bin\Debug\ParseHTMLWB.pdb
+E:\projects\ParseHTMLWB\ParseHTMLWB\bin\Debug\Interop.SHDocVw.dll
+E:\projects\ParseHTMLWB\ParseHTMLWB\bin\Debug\WatiN.Core.dll
+E:\projects\ParseHTMLWB\ParseHTMLWB\bin\Debug\WatiN.Core.xml
+E:\projects\ParseHTMLWB\ParseHTMLWB\obj\Debug\ParseHTMLWB.csprojResolveAssemblyReference.cache
+E:\projects\ParseHTMLWB\ParseHTMLWB\obj\Debug\ParseHTMLWB.Form1.resources
+E:\projects\ParseHTMLWB\ParseHTMLWB\obj\Debug\ParseHTMLWB.Properties.Resources.resources
+E:\projects\ParseHTMLWB\ParseHTMLWB\obj\Debug\ParseHTMLWB.csproj.GenerateResource.Cache
