@@ -20,14 +20,7 @@ namespace ParseHTMLWB
                 var passwordField = browser.TextField(Find.By("type", "password"));
                 passwordField.Value = "' OR 1=1 --";
                 WatiN.Core.Form frm = (WatiN.Core.Form)passwordField.Ancestor("form");
-                frm.Submit();
-                //browser.WaitForComplete(60);
-                string afterRequest = browser.Html;
-                while (beforeRequest == afterRequest)
-                {
-                    Thread.Sleep(200);
-                    afterRequest = browser.Html;
-                }
+                frm.Submit();               
             }
         }
 
